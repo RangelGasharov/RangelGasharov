@@ -1,6 +1,6 @@
 <h2>Hi there👋 </h2>
 
-I am currently a student at the HTL Dornbirn in Austria. In general, I mainly program with JavaScript in combination with HTML and CSS. Additionally, I use Java for software development.
+I am currently a student of the business computer science department at the HTL Dornbirn in Austria. In general, I program with JavaScript in combination with HTML and CSS, as well as Java and Python.
 
 
 <img align = "left" src="https://github-readme-stats.vercel.app/api?username=RangelGasharov&hide=contribs,prs&theme=tokyonight"/>
